@@ -22,13 +22,11 @@ Aplique a porcentagem de nota para cada aluno.
 
 Monte um relatório (em forma de lista) contendo as informações a seguir.
 
----------------------------------
-Número da Inscrição|
----------------------------------
-Nome do Aluno|Quantidade de questões|
-Porcentagem obtida de desconto|
-Mensalidade com desconto|
-
+* Número da Inscrição
+* Nome do Aluno
+* Quantidade de questões
+* Porcentagem obtida de desconto
+* Mensalidade com desconto
 
 4- Se o aluno conseguiu 90% de desconto, ele deve ser parabenizado também na linha do relatório em que aparecer seu nome.
 
