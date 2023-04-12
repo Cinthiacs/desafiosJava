@@ -1,7 +1,10 @@
 ## Desafio Proposto:
 
 Faça um algoritmo para ler: 
-número da conta do cliente, saldo, débito e crédito.
+- Número da conta do cliente. 
+- Saldo.
+- Débito.
+- Crédito.
 
 Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito).
 
