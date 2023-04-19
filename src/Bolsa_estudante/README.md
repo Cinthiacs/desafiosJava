@@ -48,7 +48,7 @@ Este é um programa em Java desenvolvido através da IDE VsCode para o Desafio B
 ## Descrição
 O programa solicita o nome do estudante e a pontuação obtida em uma prova. De acordo com a pontuação, o programa determina o desconto na mensalidade e gera um número de inscrição aleatório.
 
-### Como utilizar
+### Como Executar
 Para utilizar o programa, siga os passos abaixo:
 
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
@@ -59,6 +59,11 @@ git clone https://github.com/Cinthiacs/Bolsa_estudante.git
 ```
 3. Abra a IDE VsCode e importe o arquivo.
 4. Compile e execute o programa.
+5. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
+```bash
+javac Valores.java
+java Valores
+```
 
 ### Tecnologias utilizadas
 * Java 8
