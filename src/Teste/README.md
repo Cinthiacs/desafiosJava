@@ -44,6 +44,11 @@ git clone https://github.com/Cinthiacs/Teste.git
 ```
 2. Abrir o arquivo teste.java em uma IDE ou editor de texto;
 3. Compilar e executar o código.
+4. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
+```bash
+javac Valores.java
+java Valores
+```
 
 ### Funcionamento do Programa
 * Ao ser executado, o programa solicita a entrada de dois números inteiros x e y. 
