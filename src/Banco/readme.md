@@ -35,5 +35,9 @@ git clone https://github.com/Cinthiacs/Banco.git
 4. Execute o programa na sua IDE.
 5. Siga as instruções do programa para verificar o saldo, debitar ou creditar valores na conta.
 
+### Tecnologias utilizadas
+* Java 8
+* IDE VsCode
+
 ### Autora
 Cinthia Cavalheiro
