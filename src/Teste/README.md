@@ -1,20 +1,21 @@
 ## Ler o seguinte algorítimo:
 
  Início
-	Ler x
-	Ler y
-z <- (x*y)+5
-se z <= 0 então 
-resposta<-’A’
-senão
-se z <= 100 então
-resposta <- ‘B’
-senão
-resposta <-’C’
+Ler x
+Ler y
+	z <- (x*y)+5
+		se z <= 0 então 
+		resposta<-’A’
+	senão
+		se z <= 100 então
+		resposta <- ‘B’
+	senão
+		resposta <-’C’
 fim_se
 fim_se
 escrever z, resposta
 fim
+
 faça um teste de mesa e complete o quadro a seguir para os seguintes valores:
 
 Variáveis
@@ -40,7 +41,7 @@ Para executar o programa, você deve:
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Teste.git
+git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 2. Abrir o arquivo teste.java em uma IDE ou editor de texto;
 3. Compilar e executar o código.
@@ -62,4 +63,4 @@ java Valores
 * IDE VsCode
 
 ### Autora
-Cinthia Cavalheiro
+Cinthia Cavalheiro.
