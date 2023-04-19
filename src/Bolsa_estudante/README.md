@@ -40,13 +40,15 @@ Os elementos principais a serem utilizados/criados nestes algoritmos são:
 
 4- Malhas de repetição
 
-Neste caso monte um algoritmo que vá fazer isso da melhor forma possível. Lembrando que algoritmo é um portugues estruturado para programação e então não deve ter palavras em inglês ou nada que se refira a linguagem de programação.
+Neste caso monte um algoritmo que vá fazer isso da melhor forma possível. 
+Lembrando que algoritmo é um portugues estruturado para programação e então não deve ter palavras em inglês ou nada que se refira a linguagem de programação.
 
 # Bolsa Estudante
 Este é um programa em Java desenvolvido através da IDE VsCode para o Desafio Bolsa Estudante.
 
 ## Descrição
-O programa solicita o nome do estudante e a pontuação obtida em uma prova. De acordo com a pontuação, o programa determina o desconto na mensalidade e gera um número de inscrição aleatório.
+O programa solicita o nome do estudante e a pontuação obtida em uma prova. 
+De acordo com a pontuação, o programa determina o desconto na mensalidade e gera um número de inscrição aleatório.
 
 ### Como Executar
 Para utilizar o programa, siga os passos abaixo:
