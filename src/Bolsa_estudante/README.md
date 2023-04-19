@@ -41,3 +41,27 @@ Os elementos principais a serem utilizados/criados nestes algoritmos são:
 4- Malhas de repetição
 
 Neste caso monte um algoritmo que vá fazer isso da melhor forma possível. Lembrando que algoritmo é um portugues estruturado para programação e então não deve ter palavras em inglês ou nada que se refira a linguagem de programação.
+
+# Bolsa Estudante
+Este é um programa em Java desenvolvido através da IDE VsCode para o Desafio Bolsa Estudante.
+
+## Descrição
+O programa solicita o nome do estudante e a pontuação obtida em uma prova. De acordo com a pontuação, o programa determina o desconto na mensalidade e gera um número de inscrição aleatório.
+
+### Como utilizar
+Para utilizar o programa, siga os passos abaixo:
+
+1. Baixe o arquivo do código fonte.
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/Bolsa_estudante.git
+```
+3. Abra a IDE VsCode e importe o arquivo.
+4. Compile e execute o programa.
+
+### Tecnologias utilizadas
+* Java
+* IDE VsCode
+
+### Autora
+Cinthia Cavalheiro.
