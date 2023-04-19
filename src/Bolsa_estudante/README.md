@@ -63,8 +63,8 @@ git clone https://github.com/Cinthiacs/desafiosJava.git
 4. Compile e execute o programa.
 5. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
 ```bash
-javac Valores.java
-java Valores
+javac Bolsa_estudante.java
+java Bolsa_estudante
 ```
 
 ### Tecnologias utilizadas
