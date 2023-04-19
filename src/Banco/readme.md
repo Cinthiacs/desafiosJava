@@ -23,7 +23,7 @@ senão escrever a mensagem 'Saldo Negativo'.
 * Debitar valor da conta
 * Creditar valor na conta
 
-### Como usar
+### Como executar
 
 1. Clone este repositório na sua máquina local.
 ```bash
@@ -33,7 +33,12 @@ git clone https://github.com/Cinthiacs/Banco.git
 2. Abra o arquivo em uma IDE Java, recomendo o Visual Studio Code.
 3. Compile o programa.
 4. Execute o programa na sua IDE.
-5. Siga as instruções do programa para verificar o saldo, debitar ou creditar valores na conta.
+5. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
+```bash
+javac Valores.java
+java Valores
+```
+6. Siga as instruções do programa para verificar o saldo, debitar ou creditar valores na conta.
 
 ### Tecnologias utilizadas
 * Java 8
