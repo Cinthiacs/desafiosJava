@@ -31,7 +31,8 @@ x|y|z|Resposta
 Este é um pequeno programa desenvolvido em Java através da IDE VsCode.
 
 ## Objetivo
-O objetivo deste programa é calcular o valor de z a partir da entrada de dois números inteiros x e y. Em seguida, o programa imprime uma mensagem de acordo com o valor de z.
+O objetivo deste programa é calcular o valor de z a partir da entrada de dois números inteiros x e y. 
+Em seguida, o programa imprime uma mensagem de acordo com o valor de z.
 
 ### Como Executar
 Para executar o programa, você deve:
@@ -47,8 +48,9 @@ git clone https://github.com/Cinthiacs/Teste.git
 ### Funcionamento do Programa
 * Ao ser executado, o programa solicita a entrada de dois números inteiros x e y. 
 * Em seguida, o programa calcula o valor de z a partir da seguinte expressão: (x*y)+5.
-* Depois, o programa imprime uma mensagem de acordo com o valor de z. Se z for menor ou igual a zero, o programa imprime "Resposta A". 
-* Se z for maior que 0 e menor ou igual a 100, o programa imprime "Resposta B". Caso contrário, o programa imprime "Resposta C".
+* Depois, o programa imprime uma mensagem de acordo com o valor de z. Se z for menor ou igual a 0, o programa imprime "Resposta A". 
+* Se z for maior que 0 e menor ou igual a 100, o programa imprime "Resposta B". 
+* Caso contrário, o programa imprime "Resposta C".
 
 ### Tecnologias utilizadas
 * Java 8
