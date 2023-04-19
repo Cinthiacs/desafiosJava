@@ -50,7 +50,6 @@ git clone https://github.com/Cinthiacs/desafiosJava.git
 javac Teste.java
 java Teste
 ```
-
 ### Funcionamento do Programa
 * Ao ser executado, o programa solicita a entrada de dois números inteiros x e y. 
 * Em seguida, o programa calcula o valor de z a partir da seguinte expressão: (x*y)+5.
