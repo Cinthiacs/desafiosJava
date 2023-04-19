@@ -55,7 +55,7 @@ Para utilizar o programa, siga os passos abaixo:
 
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Bolsa_estudante.git
+git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 3. Abra a IDE VsCode e importe o arquivo.
 4. Compile e execute o programa.
