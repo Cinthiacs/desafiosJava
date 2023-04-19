@@ -25,7 +25,7 @@ Lembrando que algoritmo é um português estruturado para programação e então
 # Contabilista
 Este é um projeto desenvolvido em Java através da IDE VsCode que calcula o prazo para o pagamento de impostos baseado no valor informado pelo usuário.
 
-## Como utilizar
+## Como Executar
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
 ```bash
 # clonar repositório
@@ -33,6 +33,11 @@ git clone https://github.com/Cinthiacs/Contabilista.git
 ```
 2. Abra o projeto em sua IDE de preferência
 3. Rode o arquivo Contabilista.java presente no diretório src através da opção "Run" da sua IDE.
+4. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
+```bash
+javac Valores.java
+java Valores
+```
 
 ### Funcionalidades
 
