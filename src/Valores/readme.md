@@ -9,7 +9,7 @@ O programa também solicita que o usuário informe seu nome e registra a data e 
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Valores.git
+git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 2. Abra o arquivo Valores.java em uma IDE Java, utilizei o VsCode.
 3. Compile e execute o programa.
