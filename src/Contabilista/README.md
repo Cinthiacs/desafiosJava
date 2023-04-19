@@ -35,8 +35,8 @@ git clone https://github.com/Cinthiacs/desafiosJava.git
 3. Rode o arquivo Contabilista.java presente no diretório src através da opção "Run" da sua IDE.
 4. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
 ```bash
-javac Valores.java
-java Valores
+javac Contabilista.java
+java Contabilista
 ```
 
 ### Funcionalidades
