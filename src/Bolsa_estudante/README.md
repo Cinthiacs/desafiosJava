@@ -61,7 +61,7 @@ git clone https://github.com/Cinthiacs/Bolsa_estudante.git
 4. Compile e execute o programa.
 
 ### Tecnologias utilizadas
-* Java
+* Java 8
 * IDE VsCode
 
 ### Autora
