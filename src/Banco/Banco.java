@@ -3,12 +3,6 @@ import java.util.Scanner;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-
-/*Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. 
-Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito).
-Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', 
-senão escrever a mensagem 'Saldo Negativo'. */
-
 public class Banco {
     public static void main(String[] args) throws Exception {
 
