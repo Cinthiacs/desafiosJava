@@ -30,13 +30,10 @@ senão escrever a mensagem 'Saldo Negativo'.
 # clonar repositório
 git clone https://github.com/Cinthiacs/Banco.git
 ```
-2. Abra o arquivo em uma IDE Java, recomendamos o Visual Studio Code.
+2. Abra o arquivo em uma IDE Java, recomendo o Visual Studio Code.
 3. Compile o programa.
 4. Execute o programa na sua IDE.
 5. Siga as instruções do programa para verificar o saldo, debitar ou creditar valores na conta.
 
 ### Autora
 Cinthia Cavalheiro
-
-### Observações
-Este programa foi desenvolvido com fins educacionais.
