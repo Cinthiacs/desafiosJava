@@ -28,7 +28,7 @@ senão escrever a mensagem 'Saldo Negativo'.
 1. Clone este repositório na sua máquina local.
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Banco.git
+git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 2. Abra o arquivo em uma IDE Java, recomendo o Visual Studio Code.
 3. Compile o programa.
