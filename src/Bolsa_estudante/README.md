@@ -51,7 +51,8 @@ O programa solicita o nome do estudante e a pontuação obtida em uma prova. De 
 ### Como utilizar
 Para utilizar o programa, siga os passos abaixo:
 
-1. Baixe o arquivo do código fonte.
+1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
+
 ```bash
 # clonar repositório
 git clone https://github.com/Cinthiacs/Bolsa_estudante.git
