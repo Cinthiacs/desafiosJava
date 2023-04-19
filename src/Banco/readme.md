@@ -35,8 +35,8 @@ git clone https://github.com/Cinthiacs/desafiosJava.git
 4. Execute o programa na sua IDE.
 5. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
 ```bash
-javac Valores.java
-java Valores
+javac Banco.java
+java Banco
 ```
 6. Siga as instruções do programa para verificar o saldo, debitar ou creditar valores na conta.
 
@@ -45,4 +45,4 @@ java Valores
 * IDE VsCode
 
 ### Autora
-Cinthia Cavalheiro
+Cinthia Cavalheiro.
