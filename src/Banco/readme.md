@@ -23,7 +23,7 @@ senão escrever a mensagem 'Saldo Negativo'.
 * Debitar valor da conta
 * Creditar valor na conta
 
-### Como executar
+### Como Executar
 
 1. Clone este repositório na sua máquina local.
 ```bash
