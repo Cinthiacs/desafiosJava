@@ -4,7 +4,7 @@ Um contabilista precisa conferir impostos de renda que ele fez, e tem para isso 
 
 1- Os impostos menores de R$ 10 mil são pagos no dia 10 do mês.
 
-2-Os impostos entre R$ 10.001,00 (Dez mil e 1) e R$ 40 mil são pagos no dia 12 do mês.
+2- Os impostos entre R$ 10.001,00 (Dez mil e 1) e R$ 40 mil são pagos no dia 12 do mês.
 
 3- Os impostos acima de R$ 40.001,00 (Quarenta mil e um) são pagos no dia 15 do mês.
 
@@ -16,7 +16,7 @@ Este contabilista precisa de um algorítimo que faça a separação destes impos
 
 3- Contadores
 
-4-Malhas de Repetição
+4- Malhas de Repetição
 
 Neste caso monte um algoritmo que vá fazer isso da melhor forma possível.
 
@@ -29,7 +29,7 @@ Este é um projeto desenvolvido em Java através da IDE VsCode que calcula o pra
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Contabilista.git
+git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 2. Abra o projeto em sua IDE de preferência
 3. Rode o arquivo Contabilista.java presente no diretório src através da opção "Run" da sua IDE.
@@ -41,9 +41,12 @@ java Valores
 
 ### Funcionalidades
 
-Ao rodar o programa, o usuário deverá informar o seu nome e o valor do imposto a ser pago. O sistema irá então calcular e exibir a data de vencimento do imposto baseado no valor informado.
+Ao rodar o programa, o usuário deverá informar o seu nome e o valor do imposto a ser pago. 
+O sistema irá então calcular e exibir a data de vencimento do imposto baseado no valor informado.
 
-Para valores menores ou iguais a R$ 10.000,00, o imposto deverá ser pago no dia 10° do mês. Para valores entre R$ 10.001,00 e R$ 40.000,00, o imposto deverá ser pago no dia 12° do mês. Já para valores acima de R$ 40.001,00, o imposto deverá ser pago no dia 15° do mês.
+Para valores menores ou iguais a R$ 10.000,00, o imposto deverá ser pago no dia 10° do mês. 
+Para valores entre R$ 10.001,00 e R$ 40.000,00, o imposto deverá ser pago no dia 12° do mês. 
+Já para valores acima de R$ 40.001,00, o imposto deverá ser pago no dia 15° do mês.
 
 Tecnologias utilizadas
 * Java 8
