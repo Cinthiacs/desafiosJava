@@ -7,13 +7,13 @@ O programa também solicita que o usuário informe seu nome e registra a data e 
 
 ## Como executar
 1. Clone o repositório em sua máquina local utilizando o seguinte comando no terminal:
+
 ```bash
 # clonar repositório
 git clone https://github.com/Cinthiacs/desafiosJava.git
 ```
 2. Abra o arquivo Valores.java em uma IDE Java, utilizei o VsCode.
 3. Compile e execute o programa.
-
 4. Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
 
 ```bash
